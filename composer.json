@@ -1,0 +1,24 @@
+{
+  "name": "carter/trinity",
+  "description": "Inspired by Craft Neo. A Matrix-like field type for Craft CMS 3 that uses existing fields",
+  "version": "0.0.1",
+  "type": "craft-plugin",
+  "require": {
+    "craftcms/cms": "^3.0.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "carter\\trinity\\": "src/"
+    }
+  },
+  "support": {
+    "email": "nerds@carterdigital.com"
+  },
+  "extra": {
+    "handle": "trinity",
+    "name": "Carter Trinity",
+    "developer": "Dimas Putra",
+    "developerUrl": "https://carterdigital.com.au",
+    "class": "carter\\trinity\\Trinity"
+  }
+}
