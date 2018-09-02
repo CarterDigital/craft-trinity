@@ -1,6 +1,6 @@
 {
   "name": "carter/trinity",
-  "description": "Inspired by Craft Neo. A Matrix-like field type for Craft CMS 3 that uses existing fields",
+  "description": "Inspired by Craft Neo. A Matrix-like field type for Craft CMS 3 by Carter Digital",
   "version": "0.0.1",
   "type": "craft-plugin",
   "require": {
